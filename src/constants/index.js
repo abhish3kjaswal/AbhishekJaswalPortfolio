@@ -35,6 +35,7 @@ import {
   connectTracker,
   SwiggyClone,
   shoppingstop,
+  bidoh,
 } from "../assets";
 
 const navigationPaths = {
@@ -234,6 +235,33 @@ const projects = [
     ],
     image: gem,
     hosted_link: "https://mkp.gem.gov.in/market",
+  },
+   {
+    name: "BidonHomes webApp",
+    description:
+      "BidOnHomes is a technology-driven, AI-powered real estate auction and listing management platform designed to help agents win more listings and streamline the sale of traditional, distressed, and REO properties",
+    tags: [
+      {
+        name: "reactJs",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "redux",
+        color: "pink-text-gradient",
+      },
+      
+      {
+        name: "Html5",
+        color: "green-text-gradient",
+      },
+       {
+        name: "css",
+        color: "blue-text-gradient",
+      },
+      
+    ],
+    image: bidoh,
+    hosted_link: "https://www.bidonhomes.com/",
   },
   {
     name: "Connect Tracker",

@@ -39,6 +39,7 @@ import myAccess from "./projects/MyAccess.png";
 import connectTracker from "./projects/connectTracker.png";
 import gem from "./projects/Gem.png";
 import SwiggyClone from "./projects/SwiggyClone.png";
+import bidoh from "./projects/bidoh.png";
 import shoppingstop from "./projects/shoppingstop.png";
 
 
@@ -82,5 +83,6 @@ export {
   connectTracker,
   gem,
   SwiggyClone,
-  shoppingstop
+  shoppingstop,
+  bidoh
 };
